@@ -1,4 +1,4 @@
-# My Mac Basic Setup Ansible Playbook
+# My Basic Mac Setup Ansible Playbook
 
 It's simply a fork of jeffgeerlings ansible playbook with customizations for my needs. 
 
