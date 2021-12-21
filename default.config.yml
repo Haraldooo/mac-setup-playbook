@@ -54,6 +54,7 @@ homebrew_installed_packages:
   - openssl
   - pv
   - wget
+  - wireguard-tools
   - wrk
   - xh
   - zsh-history-substring-search
