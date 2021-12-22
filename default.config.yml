@@ -28,7 +28,6 @@ dotfiles_files:
   - .vimrc
 
 homebrew_installed_packages:
-  # - ansible # Installed via Pip.
   - autoconf
   - bash-completion
   - curlie
@@ -64,25 +63,25 @@ homebrew_taps:
   - homebrew/cask
 
 homebrew_cask_appdir: /Applications
-homebrew_cask_apps:
-  - chromedriver
-  - docker
-  - firefox
-  - google-chrome
-  - microsoft-edge
-  - handbrake
-  - licecap
-  - sequel-ace
-  - sqlitestudio
-  - visual-studio-code
-  - powershell
-  - affinity-designer
-  - affinity-publisher
-  - affinity-photo
-  - iterm2
-  - vagrant
-  - spotify
-  - bitwarden
+homebrew_cask_apps: []
+#  - chromedriver
+#  - docker
+#  - firefox
+#  - google-chrome
+#  - microsoft-edge
+#  - handbrake
+#  - licecap
+#  - sequel-ace
+#  - sqlitestudio
+#  - visual-studio-code
+#  - powershell
+#  - affinity-designer
+#  - affinity-publisher
+#  - affinity-photo
+#  - iterm2
+#  - vagrant
+#  - spotify
+#  - bitwarden
 
 
 
