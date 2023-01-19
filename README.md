@@ -111,30 +111,7 @@ Applications (installed with Homebrew Cask):
 
 Packages (installed with Homebrew):
 
-  - autoconf
-  - bash-completion
-  - doxygen
-  - gettext
-  - gifsicle
-  - git
-  - go
-  - gpg
-  - hub
-  - httpie
-  - iperf
-  - libevent
-  - sqlite
-  - mcrypt
-  - nmap
-  - node
-  - nvm
-  - php
-  - ssh-copy-id
-  - cowsay
-  - readline
-  - openssl
-  - pv
-  - wget
+To install all brew/mas apps and programms, run ```brew bundle```
 
 My [dotfiles](https://github.com/geerlingguy/dotfiles) are also installed into the current user's home directory, including the `.osx` dotfile for configuring many aspects of macOS for better performance and ease of use. You can disable dotfiles management by setting `configure_dotfiles: no` in your configuration.
 
